@@ -1,8 +1,6 @@
 name = "edge-sub"
 compatibility_date = "2023-10-10"
 
-main = "workers-site/index.js"
-site.bucket = "./"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "dist"   # 顺便修复日志中的警告
 kv_namespaces = [
