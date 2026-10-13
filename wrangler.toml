@@ -4,5 +4,5 @@ compatibility_date = "2023-10-10"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = "dist"   # 顺便修复日志中的警告
 kv_namespaces = [
-    { binding = "EdgeSubDB", id = "f68813441af04d4fa064a677fdca2ac3" },
+    { binding = "EdgeSubDB", id = "baf816d8c30d4f6eaaf052ff7387c5ae" },
 ]
